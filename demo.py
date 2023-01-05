@@ -1,0 +1,1 @@
+print("kirti singh")
